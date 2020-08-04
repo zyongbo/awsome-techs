@@ -1,1 +1,1 @@
-# awsome-tech
+# awsome-techs
